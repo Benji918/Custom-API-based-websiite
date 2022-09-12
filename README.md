@@ -5,7 +5,7 @@
 ![](streamlit.io.jpg)
 
 ## Streamlit Documentation
-[](https://docs.streamlit.io/)
+![](https://docs.streamlit.io/)
 
 ## Jikan API Documentation
 [](https://docs.api.jikan.moe/#tag/anime/operation/getAnimeSearch)
