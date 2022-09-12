@@ -8,4 +8,4 @@
 ![ReadMe](https://docs.streamlit.io/)
 
 ## Jikan API Documentation
-[](https://docs.api.jikan.moe/#tag/anime/operation/getAnimeSearch)
+<a href="https://docs.api.jikan.moe/#tag/anime/operation/getAnimeSearch" target="_blank">Jikan docs</a>
